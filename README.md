@@ -1,8 +1,8 @@
-![Image](https://cdn.shopify.com/s/files/1/0723/3899/7554/products/Artboard1-min_ea0ad71b-87f0-455b-ae17-26f0feff5624_740x.png?v=1677132779)
+<img src="https://branditechture.agency/brand-logos/wp-content/uploads/2022/10/Noise-1024x650.png" width="400" height="200">
 
 # **User Manual for Noise ColorFit Pulse 2 Max** 
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FNoise-Advanced-Bluetooth-Brightness-Smartwatch%2Fdp%2FB0B6BLTGTT&psig=AOvVaw29MpYD3iJIpNuNF-K8EEEL&ust=1679226246288000&source=images&cd=vfe&ved=0CA0Q3YkBahcKEwiQg-CUu-X9AhUAAAAAHQAAAAAQAw)
+<img src="https://cdn.shopify.com/s/files/1/0723/3899/7554/products/Artboard1-min_ea0ad71b-87f0-455b-ae17-26f0feff5624_740x.png" width="370" height="370">
 
 The ColorFit Pulse 2 Max smartwatch by Noise comes with functional activity data-storing features for up to one week allowing you to sync all your monitored data on the NoiseFit app. NoiseFit smartwatches are fully functional and active devices that trace your data such as your daily step count, distance covered, calories burnt, active body minutes, heart rate, deep sleep duration, and overall workout data. 
 
